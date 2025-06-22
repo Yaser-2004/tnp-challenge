@@ -142,18 +142,3 @@ Share Link Not Working
 
 Ensure NEXT_PUBLIC_APP_URL matches your deployment URL
 Check if the share token is valid and not expired
-
-
-
-📄 License
-This project is created for the DTU Training & Placement Department Recruitment Challenge 2025.
-🤝 Contributing
-This is a challenge submission. For questions or issues, please contact the development team.
-
-Demo Credentials (if applicable):
-
-Username: admin
-Password: password
-
-Live Demo: [Your Vercel URL]
-API Documentation: https://documenter.getpostman.com/view/19524067/2sB2xBCVFe
