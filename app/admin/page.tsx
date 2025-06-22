@@ -47,7 +47,8 @@ export default function AdminPage() {
       setIsGenerating(false);
     }
   };
-
+ 
+  //
   const copyToClipboard = async () => {
     try {
       await navigator.clipboard.writeText(shareUrl);
